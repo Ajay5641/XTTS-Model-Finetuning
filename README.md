@@ -9,8 +9,6 @@ This repository showcases fine-tuned XTTS (Cross-lingual Text-to-Speech) models 
 
 📥 To download the datasets, please visit the official Indic TTS Database.
 
-🎧 Compare the original and fine-tuned outputs below to evaluate the enhancement in clarity and naturalness.
----
 
 ## 🔊 Audio Samples
 
