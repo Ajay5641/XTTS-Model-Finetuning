@@ -1,6 +1,6 @@
 # 🗣️ XTTS Model Fine-Tuning for English & Hindi
 
-This repository contains fine-tuned XTTS models for Indian Accent English and Hindi. The goal is to synthesize speech that preserves speaker identity while improving clarity and accuracy in different languages.
+This repository contains fine-tuned XTTS (Cross-lingual Text-to-Speech) models for English and Hindi. The goal is to synthesize speech that preserves speaker identity while improving clarity and accuracy in different languages.
 
 ---
 
@@ -15,12 +15,11 @@ This repository contains fine-tuned XTTS models for Indian Accent English and Hi
 ## 🔊 Audio Samples
 
 ### ✅ English Audio
-- 🎧 [Original Audio](https://github.com/Ajay5641/XTTS-Model-Finetuning/raw/main/English%20Audio.wav)
-- 🎙️ [Finetuned Output](https://github.com/Ajay5641/XTTS-Model-Finetuning/blob/main/Finetune_Result/English%20Finetune%20Output.wav)
+- 🎧 [Original Audio](https://github.com/Ajay5641/XTTS-Model-Finetuning/raw/main/English_Audio.wav)
+- 🎙️ [Finetuned Output](https://github.com/Ajay5641/XTTS-Model-Finetuning/raw/main/English_Finetune_Output.wav)
 
 ### 🇮🇳 Hindi Audio
-- 🎧 [Original Audio](https://github.com/Ajay5641/XTTS-Model-Finetuning/raw/main/Hindi%20Audio.wav)
-- 🎙️ [Finetuned Output](https://github.com/Ajay5641/XTTS-Model-Finetuning/raw/main/Hindi%20Finetune%20Output.wav)
+- 🎧 [Original Audio](https://github.com/Ajay5641/XTTS-Model-Finetuning/raw/main/Hindi_Audio.wav)
+- 🎙️ [Finetuned Output](https://github.com/Ajay5641/XTTS-Model-Finetuning/raw/main/Hindi_Finetune_Output.wav)
 
 ---
-
