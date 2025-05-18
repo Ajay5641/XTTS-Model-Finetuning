@@ -15,11 +15,11 @@ This repository contains fine-tuned XTTS (Cross-lingual Text-to-Speech) models f
 ## 🔊 Audio Samples
 
 ### ✅ English Audio
-- 🎧 [Original Audio](https://github.com/Ajay5641/XTTS-Model-Finetuning/raw/main/English_Audio.wav)
-- 🎙️ [Finetuned Output](https://github.com/Ajay5641/XTTS-Model-Finetuning/raw/main/English_Finetune_Output.wav)
+- 🎧 [Original Audio](https://raw.githubusercontent.com/Ajay5641/XTTS-Model-Finetuning/main/Finetune_Result/English_Audio.wav)
+- 🎙️ [Finetuned Output](https://raw.githubusercontent.com/Ajay5641/XTTS-Model-Finetuning/main/Finetune_Result/English_Finetune_Output.wav)
 
 ### 🇮🇳 Hindi Audio
-- 🎧 [Original Audio](https://github.com/Ajay5641/XTTS-Model-Finetuning/raw/main/Hindi_Audio.wav)
-- 🎙️ [Finetuned Output](https://github.com/Ajay5641/XTTS-Model-Finetuning/raw/main/Hindi_Finetune_Output.wav)
+- 🎧 [Original Audio](https://raw.githubusercontent.com/Ajay5641/XTTS-Model-Finetuning/main/Finetune_Result/Hindi_Audio.wav)
+- 🎙️ [Finetuned Output](https://raw.githubusercontent.com/Ajay5641/XTTS-Model-Finetuning/main/Finetune_Result/Hindi_Finetune_Output.wav)
 
----
+
