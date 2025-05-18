@@ -1,13 +1,10 @@
 # 🗣️ XTTS Model Fine-Tuning for Indian Accent English and Hindi
 
-This repository showcases fine-tuned XTTS (Cross-lingual Text-to-Speech) models tailored for Indian-accented English and Hindi. The objective is to generate speech that is natural, clear, and expressive, while preserving the speaker's unique identity across both languages.
+This repository showcases fine-tuned XTTS (Cross-lingual Text-to-Speech) models tailored for Indian-accented English and Hindi. 
+
+Fine-tuned XTTS models using the Indic TTS datasets for English and Hindi.
 
 ---
-
-# 🔍 Overview
-✅ Fine-tuned XTTS models using the Indic TTS datasets for English and Hindi.
-
-📥 To download the datasets, please visit the official Indic TTS Database.
 
 
 ## 🔊 Audio Samples
